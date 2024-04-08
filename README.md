@@ -1,2 +1,2 @@
 # OIBSIP
-Oasis Infobyte Tech Internship tasks of Python Programing
+Oasis Infobyte Tech Internship tasks
